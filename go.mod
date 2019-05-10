@@ -27,7 +27,7 @@ require (
 	github.com/kshvakov/clickhouse v1.3.5
 	github.com/lib/pq v1.0.0
 	github.com/mattn/go-sqlite3 v1.10.0
-	github.com/mongodb/mongo-go-driver v0.3.0
+	go.mongodb.org/mongo-driver v0.3.0
 	github.com/nakagami/firebirdsql v0.0.0-20190310045651-3c02a58cfed8
 	github.com/pkg/errors v0.8.1 // indirect
 	github.com/satori/go.uuid v1.2.0 // indirect
